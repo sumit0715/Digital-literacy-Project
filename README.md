@@ -1,23 +1,23 @@
-## 📘 Digital Literacy Project
-
-## 👨‍🎓 Student Details
-Name: Sumit
-REG NO. : 25BAI11024
-Course: B.Tech (CSE AIML)
-University: VIT Bhopal University
-Course Code: CSE0001 – Digital Literacy
-
-## 📌 Project Overview
-This repository contains my Digital Literacy Portfolio, created as part of the CSE0001 course at VIT Bhopal University.
-As a Student Digital Ambassador, this project demonstrates my ability to:
-
-**Use digital tools effectively
-Build a professional online presence
-Communicate responsibly online
-Understand cyber safety and awareness
-The project is divided into 5 tasks, each aligned with course modules.**
-
-## 📂 Repository Structure
+## 📘 Digital Literacy Project  
+  
+## 👨‍🎓 Student Details  
+Name: Sumit  
+REG NO. : 25BAI11024  
+Course: B.Tech (CSE AIML)  
+University: VIT Bhopal University  
+Course Code: CSE0001 – Digital Literacy  
+  
+## 📌 Project Overview  
+This repository contains my Digital Literacy Portfolio, created as part of the CSE0001 course at VIT Bhopal University.  
+As a Student Digital Ambassador, this project demonstrates my ability to:  
+  
+**Use digital tools effectively  
+Build a professional online presence  
+Communicate responsibly online  
+Understand cyber safety and awareness  
+The project is divided into 5 tasks, each aligned with course modules.**  
+  
+## 📂 Repository Structure  
 digital-literacy-project/
 │── README.md
 │
